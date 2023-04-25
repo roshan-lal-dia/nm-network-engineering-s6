@@ -6,4 +6,4 @@ Naan Mudhalvan Network Engineering course for Sem 6, resources, assignments etc.
 ### Course Index
 
 
-### Packet Trcer files
+### Packet Tracer files
