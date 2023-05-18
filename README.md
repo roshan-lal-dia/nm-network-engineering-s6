@@ -15,7 +15,7 @@ Naan Mudhalvan Network Engineering course for Sem 6, resources, assignments etc.
 
 ### Lab Files
 
-- LAb file 1  Link
+- Lab file 1  Link
 
 ### Exam Preparation Links
 
